@@ -1,0 +1,9 @@
+tensor flow==2.15.0
+Python 3.13.2
+pandas 
+numpy
+torch
+torch.nn
+time
+matplotlib.pyplot
+
