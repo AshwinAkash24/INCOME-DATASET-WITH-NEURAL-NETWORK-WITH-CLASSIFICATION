@@ -1,0 +1,31 @@
+User_ID,Age,Gender,Location,Salary
+1,25,Female,New York,25000
+2,40,Male,Los Angeles,42000
+3,22,Male,Chicago,22000
+4,55,Female,Houston,55000
+5,30,Male,Miami,30000
+6,45,Female,San Francisco,45000
+7,28,Female,Boston,28000
+8,50,Male,Seattle,50000
+9,35,Male,Dallas,35000
+10,48,Female,Atlanta,48000
+11,33,Female,Washington D.C.,33000
+12,27,Male,Austin,27000
+13,38,Male,Denver,38000
+14,42,Female,Phoenix,42000
+15,29,Female,Philadelphia,29000
+16,36,Male,Portland,36000
+17,51,Female,Detroit,51000
+18,26,Male,Minneapolis,26000
+19,31,Female,Charlotte,31000
+20,47,Male,San Diego,47000
+21,34,Male,San Jose,34000
+22,39,Female,Indianapolis,39000
+23,43,Male,Las Vegas,43000
+24,32,Female,Orlando,32000
+25,37,Male,Tampa,37000
+26,44,Female,St. Louis,44000
+27,49,Male,Kansas City,49000
+28,24,Female,Sacramento,24000
+29,41,Male,Cleveland,41000
+30,46,Female,Pittsburgh,46000
